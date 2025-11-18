@@ -25,10 +25,11 @@ Bu uygulamanın geliştirilmesinde aşağıdaki ana teknoloji ve yapılar kullan
 * **DisclosureGroup:** Detay ekranında belirli bilgi gruplarını (örneğin oyuncular, puanlar) açıp kapatılabilir hale getirmek için.
 
 ---
+---
 ##  Ekran Görüntüleri
 
 | Arama Ekranı | Detay Ekranı |
 | :---: | :---: |
-| <img src="assets/Ekran Resmi 2025-11-18 22.54.47.png" width="250" alt="Arama Ekranı Görüntüsü"/> | <img src="assets/Ekran Resmi 2025-11-18 22.55.05.png" width="250" alt="Detay Ekranı Görüntüsü"/> |
+| <img src="assets/Ekran Resmi 2025-11-18 22.54.47.png" width="250" style="object-fit: cover;" alt="Arama Ekranı Görüntüsü"/> | <img src="assets/Ekran Resmi 2025-11-18 22.55.05.png" width="250" style="object-fit: cover;" alt="Detay Ekranı Görüntüsü"/> |
 
 ---
